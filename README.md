@@ -86,7 +86,6 @@ For this assignment, assume that the matrix supplied is always
 invertible.
 
 In order to complete this assignment, you must do the following:
-
 1.  Fork the GitHub repository containing the stub R files at
     [https://github.com/rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)
     to create a copy under your own account.
